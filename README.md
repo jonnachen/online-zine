@@ -4,6 +4,6 @@ In this project, I combined both my interest in Computer Science and Journalism 
 
 I interviewed and wrote all of the content found on the website, as well as explored creative coding and interactive web design to create the final product.
 
-Website deployed using both Google Firebase (https://online-zine-aba95.web.app/) and Github Pages (https://jonnachen.github.io/online-zine/)
+Website deployed using Google Firebase (https://online-zine-aba95.web.app/).
 
-Technologies used: React, HTML/CSS, JavaScript, Google Firebase Hosting, Github, Atom.
+Technologies used: React, HTML/CSS, JavaScript, Google Firebase Hosting, and Atom.
